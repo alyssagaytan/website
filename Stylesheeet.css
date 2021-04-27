@@ -29,15 +29,15 @@ body {
   width: 10em;
   padding: 0.5em;
   text-decoration: none;
-  font-family: sans-serif;
+  font-family: 'New Tegomin',serif;;
   font-weight: 900;
 }
 .topnav a:link {color: light pink;}
 .topnav a:visited {color: pink;}
 .topnav a:hover {background-color: #FFB6C1;}
 h1 {
-  font-family: sans-serif;
-  font-family: 'New Tegomin';
+  font-family: 'New Tegomin',serif;
+  font-family: 'New Tegomin',serif;
   text-align: center;
   letter-spacing: 0.3em;
   font-size: 3em;
