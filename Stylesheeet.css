@@ -1,22 +1,22 @@
 
 body {
   margin: 0;
-  background-image: url(images/backgroundfield.jpg);
+  background-image: url(images/angelcake.jpg);
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
   background-attachment: fixed;
 }
 .body2 {
-  background-color: white;
+  background-color: pink;
   background-color: rgba(255, 255, 255, 0.80);
-  font-family: Sans-serif;
+  font-family: 'New Tegomin',serif;
   margin: 2.5% 10%;
   padding: 2em;
 }
 .topnav {
   text-align: center;
-  background-color: #e60000;
+  background-color: ##FFB6C1;
 }
 .topnav ul {
   margin: 0;
@@ -33,18 +33,18 @@ body {
   font-family: sans-serif;
   font-weight: 900;
 }
-.topnav a:link {color: white;}
-.topnav a:visited {color: white;}
-.topnav a:hover {background-color: #b30000;}
+.topnav a:link {color: light pink;}
+.topnav a:visited {color: pink;}
+.topnav a:hover {background-color: #FFB6C1;}
 h1 {
   font-family: sans-serif;
-  font-family: 'Dela Gothic One';
+  font-family: 'New Tegomin';
   text-align: center;
   letter-spacing: 0.3em;
   font-size: 3em;
 }
 a:link {
-  color: blue;
+  color: purple;
   text-decoration: none;
 }
 a:visited {
