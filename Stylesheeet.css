@@ -41,7 +41,7 @@ h1 {
   font-family: 'New Tegomin',serif;
   text-align: center;
   letter-spacing: 0.3em;
-  font-size: 3em;
+  font-size: 5em;
 }
 a:link {
   color: purple;
@@ -50,7 +50,4 @@ a:link {
 a:visited {
   color: purple;
   text-decoration: none;
-}
-a:hover {
-  text-decoration: underline;
 }
